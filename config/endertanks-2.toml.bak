@@ -1,0 +1,44 @@
+#With this disabled tanks are essentially locked to the crafted color as dyes will no longer work
+enable_in_world_coloring = true
+
+#Items used to upgrade the EnderTanks
+[upgrade_items]
+	#Items used to make the tanks personal
+	personal = ["tag|forge:gems.diamond"]
+	#Items used to make the tanks team tanks
+	team = ["tag|forge:gems.emerald"]
+	#Items that apply a small storage capacity upgrade
+	small_capacity = ["minecraft:ender_pearl"]
+	#Items that apply a large storage capacity upgrade
+	large_capacity = ["minecraft:ender_eye"]
+	#Items that are used to increase the tanks internal transfer pump
+	pump = ["minecraft:piston"]
+	#Items that apply a small storage capacity upgrade
+	#Each item can only be use once per tank
+	small_capacity_singleuse = []
+	#Items that apply a large storage capacity upgrade
+	#Each item can only be use once per tank
+	large_capacity_singleuse = []
+	#Items that are used to increase the tanks internal transfer pump
+	#Each item can only be use once per tank
+	pump_singleuse = []
+
+#Set the number of buckets a tank holds, how many pump upgrades can be applied, and the value of a storage upgrade
+[capacity_settings]
+	#How many internal transfer pump upgrades can a tank have?
+	# default is only 1/4 bucket, upgrades make it a bucket per upgrade
+	#Range: 0 ~ 8
+	tank_pump_max = 4
+	#Minimum capacity an EnderTank holds
+	#Range: 4 ~ 128
+	tank_size_min = 32
+	#Maximum capacity an EnderTank holds
+	#Range: 4 ~ 512
+	tank_size_max = 256
+	#Capacity increased by small capacity upgrade items
+	#Range: 2 ~ 16
+	small_capacity_upgrade = 8
+	#Capacity increased by large capacity upgrade items
+	#Range: 4 ~ 32
+	large_capacity_upgrade = 16
+

@@ -1,0 +1,67 @@
+*Line of progression for All the Mods 6: Expert*
+
+Early automation for ore doubling goes through Create mod
+
+For tools other than vanilla, silents gear mod, tweak the knife recipe to use 3x compressed cobble nothing less can use everything above.
+
+Barrel recipe tweaked to two iron ingots in the middle
+
+Barrel upgrade require barrel instead of plank 
+
+To go from base barrel to iron barrel keep 4 iron and base barrel get rid of 2 iron copper barrel, make every barrel above require previous barrel and 4 iron
+
+Reliquary needs to be looked at, dont know how to tweak it just yet.
+
+Look in to Potion Masters configs
+
+SIMPLE STORAGE NETWORKS TWEAKS
+
+Network Cable- Compressed stone instead of stone slabs, keep iron ingots
+
+Storage Inventory- Iron ingots instead of nuggets
+
+Storage Network Root- Compressed quartz instead of quartz blocks
+
+Keep Storage Request Table recipe
+
+Network Exchange Interface- change out nuggets for ingots
+
+Network Collection Interface- change out nuggets for ingots, again
+
+Crafting Remote- Change vanilla ender chest for modded ender chest
+
+Hopper- Exchange two iron ingots on top for iron blocks
+
+Filtered Import Cable- Exchange normal barrel for iron barrel
+
+Observer- Exchange cobble for compressed cobble
+
+Change template recipe to only output 3 templates instead of 6
+
+Find a way to tweak loot in loot chests
+
+Andesite Alloy- get rid of zinc nugget recipe, use iron ingots instead of nuggets
+
+Large cogwheel recipe only makes one instead of two
+
+Stop Resourceful bees from spawning
+
+Disable blueprints on spawning in-Silents Gear
+
+CREATE RECIPE TWEAKS
+
+Brass casing only makes one, replace planks in corners with logs, leave center
+
+Brass plates takes 4 ingots to make one plate
+
+Cogwheel recipe only makes two instead of eight
+
+Mechanical crafter recipe only makes one
+
+Basic Smelting Factory require redstone furnace
+
+
+
+
+
+

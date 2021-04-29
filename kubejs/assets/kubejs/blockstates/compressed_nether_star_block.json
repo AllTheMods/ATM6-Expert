@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "kubejs:block/compressed_nether_star_block"
+    }
+  }
+}

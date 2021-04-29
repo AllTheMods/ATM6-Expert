@@ -1,0 +1,67 @@
+{
+	id: "46A95D0E4369D75B",
+	group: "4209BAB8BC698007",
+	order_index: 0,
+	filename: "tools",
+	title: "Tools",
+	icon: {
+		id: "allthemodium:alloy_pick",
+		Count: 1b,
+		tag: {
+			Damage: 0
+		}
+	},
+	default_quest_shape: "",
+	quests: [
+		{
+			title: "Tools and Armor",
+			icon: {
+				id: "mekanismtools:refined_obsidian_chestplate",
+				Count: 1b,
+				tag: {
+					Damage: 0
+				}
+			},
+			x: 0.0d,
+			y: 0.0d,
+			shape: "pentagon",
+			description: ["Many mods add a variety of useful tools and armor pieces that are easily overlooked. These are here only to serve as a highlight for the notable ones."],
+			id: "00F4DB9DAE5035B7",
+			tasks: [{
+				id: "49040FEC170078E2",
+				type: "checkmark",
+				title: "Tools & Armor",
+				icon: {
+					id: "mekanismtools:refined_obsidian_chestplate",
+					Count: 1b,
+					tag: {
+						Damage: 0
+					}
+				}
+			}],
+			rewards: [{
+				id: "3A223C24C149237D",
+				type: "xp",
+				xp: 100
+			}]
+		},
+		{
+			title: "Silents Gears",
+			x: -5.0d,
+			y: 0.0d,
+			description: ["Silents tools add a variety of tools including Hammers and Excavators. Being able to craft a tool out of almost any material. This allows the tool to have a variety of traits including sped up mining time."],
+			id: "0BF35883D7ADB6DD",
+			tasks: [{
+				id: "547AC4C37939CD4F",
+				type: "item",
+				item: "silentgear:pickaxe_template"
+			}],
+			rewards: [{
+				id: "2124A1FAF96CDAFA",
+				type: "item",
+				item: "pamhc2foodcore:toastitem",
+				count: 2
+			}]
+		}
+	]
+}

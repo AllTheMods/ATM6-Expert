@@ -1,0 +1,24 @@
+{
+	chapter_groups: [
+		{
+			id: "4209BAB8BC698007",
+			title: "Tools"
+		},
+		{
+			id: "1AC60211DE7427FC",
+			title: "Logistics"
+		},
+		{
+			id: "2B51AC12041E3F89",
+			title: "Tech"
+		},
+		{
+			id: "02FE661031A105D8",
+			title: "Magic"
+		},
+		{
+			id: "264AAD9C33AF29A5",
+			title: "End Game"
+		}
+	]
+}
